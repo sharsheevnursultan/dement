@@ -136,7 +136,7 @@ $('#carousel-portfolio2').owlCarousel({
     nav: true,
     dots: true,
     navText: ["<i class=\"fas fa-chevron-left\"></i>","<i class=\"fas fa-chevron-right\"></i>"],
-    autoplay:true,
+    autoplay:false,
     autoplayTimeout:10000,
     autoplaySpeed: 1000,
     responsive: {
