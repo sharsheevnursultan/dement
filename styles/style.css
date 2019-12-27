@@ -107,6 +107,7 @@
     padding-left: 10%;
     width: 100%;
     margin: auto;
+    height: 65px;
 }
 
 .search-input:focus,
@@ -116,7 +117,7 @@
 
 .search-input {
     width: 80%;
-    height: 45px;
+    height: 100%;
     padding: 10px;
     border-radius: 10px 0 0 10px;
     border: 0;
@@ -129,7 +130,7 @@
     padding: 10px;
     border-radius: 0 10px 10px 0;
     border: 0;
-    height: 45px;
+    height: 100%;
 }
 
 .main-bg-wood {
