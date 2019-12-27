@@ -116,6 +116,7 @@
 
 .search-input {
     width: 80%;
+    height: 45px;
     padding: 10px;
     border-radius: 10px 0 0 10px;
     border: 0;
@@ -128,6 +129,7 @@
     padding: 10px;
     border-radius: 0 10px 10px 0;
     border: 0;
+    height: 45px;
 }
 
 .main-bg-wood {
