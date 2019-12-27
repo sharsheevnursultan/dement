@@ -141,3 +141,4 @@ function showThumbnail(href, title) {
 }
 
 
+// calculator
