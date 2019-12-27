@@ -323,6 +323,19 @@
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
+    .dropdown-filter {
+        padding: 6px;
+    }
+    .fa-list {
+        margin: 5px;
+    }
+    .fa-filter {
+        margin: 5px;
+    }
+    .filter-bg {
+        padding: 10px 5px;
+
+    }
     .owl-theme .owl-dots .owl-dot {
         display: inline-block;
     }
