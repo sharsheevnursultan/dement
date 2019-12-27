@@ -66,6 +66,16 @@
     .header-ul-responsive li {
         padding: 10px 0;
     }
+    .promo-filter {
+        margin-right: 15px;
+
+    }
+    .filter-nav-bg {
+         padding: 0;
+    }
+    .filter-nav-bg h5{
+        display: none;
+    }
     .footer-ul li{
         margin: 5px 0;
     }
@@ -270,6 +280,16 @@
 @media (min-width: 320px) and (max-width: 480px) {
     .owl-theme .owl-dots .owl-dot {
         display: inline-block;
+    }
+    .filter-nav-bg {
+        padding: 0;
+    }
+    .filter-nav-bg h5{
+        display: none;
+    }
+    .promo-filter {
+        margin-right: 15px;
+
     }
     .portfolio-small-images {
         margin: 10px 0;
